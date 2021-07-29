@@ -6,17 +6,21 @@ TECNOLOGIAS
 
 ###  As tecnologias que devem ser utilizadas são:
 
-✓ Microsoft .NET Core
-✓ SQL Server
-✓ Angular 8+
+* ✓ Microsoft .NET Core
+* ✓ SQL Server
+* ✓ Angular 8+
 
 ### Backend
 
-✓ Criar uma API que permita adicionar, alterar, listar e excluir usuário.
-✓ Os dados devem ser persistidos e lidos usando ORM Entity Framework com banco de dados SQL Server.
+* ✓ Criar uma API que permita adicionar, alterar, listar e excluir usuário.
+* ✓ Os dados devem ser persistidos e lidos usando ORM Entity Framework com banco de dados SQL Server.
 
 
 ###  Frontend
 
-✓ Criar uma aplicação Angular que permita adicionar, alterar, listar e excluir usuários.
-✓ A arquitetura e layout do frontend fica à escolha, podendo ser uma ou mais telas, disposição de elementos, etc.
+* ✓ Criar uma aplicação Angular que permita adicionar, alterar, listar e excluir usuários.
+* ✓ A arquitetura e layout do frontend fica à escolha, podendo ser uma ou mais telas, disposição de elementos, etc.
+
+
+
+###  Tela Principal:
