@@ -21,7 +21,7 @@
  
  Você precisa configurar a connection string dentro do arquivo 'appsettings.json'.
  
- Para gerar o banco de dados caso você esteja usando o Visual Studio execute: ``` Update-Database ``` dentro do projeto Repositories.
+ Para gerar o banco de dados caso você esteja usando o Visual Studio execute: ``` Update-Database ``` dentro do projeto Confitec.Infrastructure.
  
  Caso esteja usando o CLI do .net core, vá na pasta raiz do projeto e execute: ```cd Confitec.Api && dotnet ef database update ```
  
