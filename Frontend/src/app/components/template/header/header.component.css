@@ -1,0 +1,24 @@
+.header {
+  display: flex;
+  align-items: center;
+}
+.header a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #333333;
+}
+.header .logo {
+  max-height: 65px;
+}
+.header .title-group {
+  padding-left: 25px;
+}
+
+.header i {
+  padding-right: 10px;
+}
+
+.mat-toolbar-row, .mat-toolbar-single-row{
+  padding: 0px;
+}

@@ -1,0 +1,9 @@
+table {
+    width: 100%;
+  }
+
+.center {
+    justify-content: center !important;
+    text-align: center !important;
+}
+ 
